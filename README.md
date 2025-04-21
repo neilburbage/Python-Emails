@@ -1,4 +1,5 @@
 📧 Python Gmail Sender
+
 This project uses Python to programmatically send emails via Gmail.
 
 Developed in PyCharm Community Edition (Ubuntu 22.04)
