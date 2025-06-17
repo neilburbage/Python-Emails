@@ -17,7 +17,7 @@
 **Install dependencies:**    
 ```pip install -r requirements.txt```  
 **Create a gmail test account, and a .env file:**  
-```1. Sign up for a new Gmail account, enable 2-factor authentication,```       
+```Sign up for a new Gmail account, enable 2-factor authentication,```       
 ```then generate an App Password.```    
 ```text
 EMAIL_ADDRESS=your_test_account@gmail.com
