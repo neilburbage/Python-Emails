@@ -8,6 +8,8 @@
 ### Quick start 
 **Clone this repo:**  
 ```git clone git@github.com:neilburbage/Python-Emails```  
+**Make sure you've added your SSH key first:**   
+```https://docs.github.com/en/authentication/connecting-to-github-with-ssh```  
 ```$ cd Python-Emails```  
 **Create a virtual environment:**     
 ```python -m venv .venv```  
@@ -21,7 +23,7 @@
 ```then generate an App Password.```    
 ```text
 EMAIL_ADDRESS=your_test_account@gmail.com
-EMAIL_PASSWORD=16-char_app_password
+EMAIL_PASSWORD=16_char_app_password
 ```
 **Run the script:**  
 ```python email_setup.py --to you@example.com --subject "Hello" --body "Test"```
